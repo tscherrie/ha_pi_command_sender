@@ -1,6 +1,0 @@
-send_command:
-  description: "Send a shell command to the Raspberry Pi."
-  fields:
-    command:
-      description: "The shell command to execute."
-      example: "ls -la"

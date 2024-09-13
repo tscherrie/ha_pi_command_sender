@@ -1,7 +1,0 @@
-{
-    "name": "Command Sender",
-    "content_in_root": false,
-    "domains": ["command_sender"],
-    "homeassistant": "2021.1.5",
-    "render_readme": true
-  }
