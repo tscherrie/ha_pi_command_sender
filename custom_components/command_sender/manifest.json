@@ -1,0 +1,8 @@
+{
+  "domain": "command_sender",
+  "name": "Command Sender",
+  "version": "1.0.0",
+  "requirements": [],
+  "codeowners": ["@tscherrie"],
+  "iot_class": "local_push"
+}
